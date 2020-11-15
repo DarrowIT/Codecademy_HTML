@@ -8,4 +8,4 @@
 
 ## 4. test
 
-## [01 Get To Know Your Tools](../../Fashion_Blog/index.html)
+## [01 Get To Know Your Tools](Elements_and_Structure/Fashion_Blog/index.html)
