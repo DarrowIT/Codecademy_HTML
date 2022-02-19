@@ -2,7 +2,7 @@
 
 ## [1. Elements and Structure / Fashion Blog](Elements_and_Structure/Fashion_Blog/index.html)
 
-## [2. Tables / Wine Festival Schedule](Tables/Wine Festival Schedule/index.html)
+## [2. Tables / Wine Festival Schedule](Tables/Wine_Festival_Schedule/index.html)
 
 ## 3. test
 
